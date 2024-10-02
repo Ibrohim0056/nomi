@@ -1,0 +1,167 @@
+nav {
+  display: flex;
+  margin-top: 30px;
+  margin-left: 52px;
+  justify-content: space-around;
+}
+body {
+  background-image: url("./faylllar/image\ 1\ \(1\).png");
+  height: 160vh;
+  background-repeat: no-repeat;
+
+  background-position: center;
+}
+.rasm {
+  display: flex;
+  margin-right: 68px;
+}
+.text-nomi {
+  margin-right: 100x;
+}
+.kvadrad1 {
+  display: flex;
+  gap: 21px;
+  background: #009ff5b5;
+  box-shadow: 0px 4px 4px 0px #dad3ff;
+  margin-right: 35px;
+  border-radius: 10px;
+}
+.jus-right {
+  display: flex;
+  gap: 100vh;
+  justify-content: space-around;
+}
+h2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 177px 393px 132px 443px;
+  background: #ffc611;
+  border: 11px solid #5a5555;
+  width: 604px;
+  height: 103px;
+  top: 243px;
+  left: 443px;
+  font-family: Roboto;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 42.19px;
+  text-align: left;
+
+  border-radius: 50px;
+}
+.bor {
+  display: flex;
+  justify-content: space-around;
+}
+.img1 {
+  box-shadow: 8px 7px 20px 0px #ffffff;
+}
+.img1 p {
+  text-shadow: 0px 4px 4px 0px #ffc200;
+}
+
+.box {
+  color: #000000;
+  text-shadow: 0px 4px 4px 0px #ffc200;
+  color: white;
+  font-family: Roboto;
+  font-size: 36px;
+  font-weight: 600;
+  line-height: 42.19px;
+  text-align: left;
+}
+.h3-div {
+  font-family: Roboto;
+  font-size: 64px;
+  font-weight: 600;
+  line-height: 75px;
+  text-align: left;
+  color: #5a5555;
+  text-align: center;
+  text-shadow: 0px 4px 4px 0px #ffffff;
+}
+.section-box {
+  background-color: #000000;
+  margin-top: -38px;
+  margin-left: -8px;
+  margin-right: -8px;
+}
+
+.contaner {
+  gap: 10px;
+}
+
+button {
+  width: 278px;
+  height: 61px;
+  top: 1448px;
+  left: 716px;
+
+  color: #535353;
+  box-shadow: 0px 7px 12.8px 0px #ffffff;
+}
+.img-box {
+  display: flex;
+}
+.img-bol {
+  display: flex;
+  flex-direction: row-reverse;
+  margin-top: 50px;
+}
+.yozuvlar {
+  margin-left: 87px;
+  padding-bottom: 118px;
+  color: white;
+}
+.button-box {
+  width: 278px;
+  height: 61px;
+  top: 1915px;
+  left: 58px;
+  gap: 0px;
+  opacity: 0px;
+  background: #ffc200;
+  box-shadow: 0px 7px 12.8px 0px #ffffff;
+}
+p {
+  color: white;
+}
+.nomi {
+  display: flex;
+}
+.rasmlar {
+  text-align: right;
+}
+footer {
+  background-color: yellow;
+  height: 158px;
+  display: flex;
+
+}
+.contaner-box {
+  margin: 51px 997px 52px 58px;
+
+  width: 101px;
+  height: 55px;
+  top: 2108px;
+  left: 58px;
+}
+
+.boxlar {
+  display: flex;
+  column-gap: 30px;
+  row-gap: 30px;
+}
+.rasm-boc {
+
+  display: flex;
+  margin-top: 61px;
+  margin-right: 76px;
+  margin-bottom: 53.27px;
+  gap: 26px;
+  width: 45px;
+  height: 45px;
+  top: 2118px;
+  left: 1156px;
+}
